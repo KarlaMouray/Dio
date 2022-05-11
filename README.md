@@ -1,2 +1,7 @@
-# Dio
-Portifolio_2_meses_de_aprendizado
+# Repositório do Desafio de Projeto sobre Git/GitHub da Dio
+Desafio de Projeto sobre Git/GitHub
+
+
+## links Úteis
+[Sintaxe_Basica_Markdown](https://www.markdownguide.org/basic-syntax/)
+
