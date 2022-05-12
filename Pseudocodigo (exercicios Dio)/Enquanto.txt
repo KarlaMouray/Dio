@@ -1,0 +1,23 @@
+Algoritmo    "Enquanto"
+Exercício no Visual G
+Var
+
+i: inteiro
+
+Inicio
+
+i <- 0
+  Escreval ("Inicio")
+  enquanto i <= 100 faca
+  Escreval (i)
+i <- i+1
+
+Se i = 50 entao
+   Escreval ("O i vale 50, meus amores")
+   Interrompa
+fimse
+
+fimenquanto
+           escreval ("fim")
+
+Fimalgoritmo

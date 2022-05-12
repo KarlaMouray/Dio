@@ -1,0 +1,18 @@
+Algoritmo    "Enquanto"
+Exercício pseudocódigo no Visual G
+Var
+
+i: inteiro
+
+Inicio
+
+i <- 0
+Escreva ("Inicio")
+enquanto i <= 100 faca
+Escreval (i)
+i <- i+1
+
+fimenquanto
+escreva ("fim")
+
+Fimalgoritmo

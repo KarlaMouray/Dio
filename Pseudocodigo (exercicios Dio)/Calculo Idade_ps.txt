@@ -1,0 +1,15 @@
+programa
+{
+ Comando para calcular idade
+	funcao inicio()
+	{inteiro nascimento, idade, anoatual
+
+	anoatual = 2022
+	escreva ("Digite o ano do seu nascimento:")
+	leia (nascimento)
+	idade = anoatual - nascimento
+	escreva ("Sua idade é:" + idade) 
+
+		
+	}
+}

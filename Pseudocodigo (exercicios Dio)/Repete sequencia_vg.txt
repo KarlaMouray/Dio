@@ -1,0 +1,17 @@
+Algoritmo    "Repita"
+
+Var
+
+i: inteiro
+  
+Inicio
+
+i <- 0
+
+repita
+Escreva (i)
+i <- i + 1
+comeu i > 10
+  
+  
+Fimalgoritmo

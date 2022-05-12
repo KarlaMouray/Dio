@@ -1,0 +1,21 @@
+
+programa
+{
+ Exercício troca a por b()
+	{inteiro a, b, aux
+
+	a=5
+	b=7
+	escreva ("O valor de a é:" + a + "\n")
+	escreva ("O valor de b é:" + b + "\n")
+	escreva ("Agora vamos trocar os valores de a e b" + "\n")
+
+	aux=a
+	a=b
+	b=aux
+
+	escreva ("O novo valor de a é:" + a + "\n")
+	escreva ("O novo valor de b é:" + b + "\n")
+		
+	}
+}

@@ -1,0 +1,20 @@
+programa
+{
+	
+	funcao inicio()
+	{
+ frutas cadeia[4]
+ contador inteiro = 0
+
+		frutas[0] = "Maçã"
+		frutas[1] = "Pera"
+		frutas[2] = "Uva"
+		frutas[3] = "Jaca"
+
+		faca{
+			escreva(frutas[contador] + "\n")
+			contador++
+		} enquanto (contador<=3)
+
+	}
+}

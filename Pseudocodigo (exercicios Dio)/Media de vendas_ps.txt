@@ -1,0 +1,24 @@
+programa
+{
+	
+	funcao inicio()
+	{
+ real vendasjaneiro, vendasfevereiro, vendasmarco, vendasabril, somavendas, mídia
+
+		escreva ("Digite o valor das vendas de janeiro:")
+		leia (vendasjaneiro)
+		escreva ("Digite o valor das vendas de fevereiro:")
+		leia (vendasfevereiro)
+		escreva ("Digite o valor das vendas de março:")
+		leia (vendasmarco)
+		escreva ("Digite o valor das vendas de abril:")
+		leia (vendasabril)
+
+ mídia = (vendasjaneiro + vendasfevereiro + vendasmarco + vendasabril)/4
+ escreva ("O valor da média de vendas é:" + mídia)
+
+		somavendas = (vendasjaneiro + vendasfevereiro + vendasmarco + vendasabril)
+		escreva ("O valor total das vendas de janeiro a abril foi de:" + somavendas)
+
+	}
+}
